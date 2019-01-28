@@ -1,3 +1,4 @@
 サルでもわかるgitコマンド
 ・git add
 ・git commit
+・git remove
